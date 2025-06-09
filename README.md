@@ -8,8 +8,7 @@
 
 </div><br>
 
- # Configure o banco de dados no arquivo `application.properties`:
-   ```properties
+ # Configure o banco de dados no arquivo 
    spring.datasource.url=jdbc:postgresql://localhost:5432/literalura
    spring.datasource.username=seu-usuario
    spring.datasource.password=sua-senha
