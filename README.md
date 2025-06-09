@@ -2,14 +2,13 @@
 
 <div align="center">
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Java Version](https://img.shields.io/badge/Java-8%2B-blue)](https://www.java.com/)
 ![GitHub repo size](https://img.shields.io/github/repo-size/rodrigoborge/Literalura)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/rodrigoborge/Literalura)
 
 </div><br>
 
- #Configure o banco de dados no arquivo `application.properties`:
+ # Configure o banco de dados no arquivo `application.properties`:
    ```properties
    spring.datasource.url=jdbc:postgresql://localhost:5432/literalura
    spring.datasource.username=seu-usuario
