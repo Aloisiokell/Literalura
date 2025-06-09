@@ -1,4 +1,4 @@
-# LiterAlura
+# Literalura
 
 <div align="center">
 
