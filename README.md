@@ -1,6 +1,6 @@
 # Literalura
 
-<div align="center">
+<div align ="center">
 
 [![Java Version](https://img.shields.io/badge/Java-8%2B-blue)](https://www.java.com/)
 ![GitHub repo size](https://img.shields.io/github/repo-size/rodrigoborge/Literalura)
