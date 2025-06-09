@@ -1,4 +1,4 @@
-# Literalura 1
+# LiterAlura
 
 <div align="center">
 
@@ -9,14 +9,15 @@
 
 </div><br>
 
-# Configure o banco de dados no arquivo `application.properties`:
+ Configure o banco de dados no arquivo `application.properties`:
    ```properties
    spring.datasource.url=jdbc:postgresql://localhost:5432/literalura
    spring.datasource.username=seu-usuario
    spring.datasource.password=sua-senha
    spring.jpa.hibernate.ddl-auto=update
    spring.jpa.show-sql=true
- ```
+   ```
+
 ## Estrutura do Projeto
 
 - `br.com.alura.literalura`: Pacote principal do projeto.
